@@ -1,0 +1,65 @@
+{
+  "id": 1260300513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.24185,49.23929,-2.24185,49.23929",
+    "geom:latitude":49.23929,
+    "geom:longitude":-2.24185,
+    "gn:asciiname":"La Porte",
+    "gn:country_code":"JE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10377076,
+    "gn:latitude":49.23929,
+    "gn:longitude":-2.24185,
+    "gn:modification_date":"2015-07-16",
+    "gn:name":"La Porte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10377076
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"7e4bcaf93a0ba8e5d5150d7cfe632aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "empire_id":136253055,
+            "locality_id":1260300513,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260300513,
+    "wof:lastmodified":1536689037,
+    "wof:name":"La Porte",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.24185,
+    49.23929,
+    -2.24185,
+    49.23929
+],
+  "geometry": {"coordinates":[-2.24185,49.23929],"type":"Point"}
+}

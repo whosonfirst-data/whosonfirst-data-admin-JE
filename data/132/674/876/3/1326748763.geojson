@@ -1,0 +1,66 @@
+{
+  "id": 1326748763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.22222,49.18222,-2.22222,49.18222",
+    "geom:latitude":49.18222,
+    "geom:longitude":-2.22222,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"La Moye",
+    "gn:country_code":"JE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3237197,
+    "gn:latitude":49.18222,
+    "gn:longitude":-2.22222,
+    "gn:modification_date":"2007-06-15",
+    "gn:name":"La Moye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3237197
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"021dabf22aee92d352a9ae08e54c6580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "empire_id":136253055,
+            "locality_id":1326748763,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326748763,
+    "wof:lastmodified":1536671806,
+    "wof:name":"La Moye",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.22222,
+    49.18222,
+    -2.22222,
+    49.18222
+],
+  "geometry": {"coordinates":[-2.22222,49.18222],"type":"Point"}
+}

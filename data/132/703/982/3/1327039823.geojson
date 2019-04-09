@@ -1,0 +1,71 @@
+{
+  "id": 1327039823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.17056,49.1875,-2.17056,49.1875",
+    "geom:latitude":49.1875,
+    "geom:longitude":-2.17056,
+    "gn:admin1_code":"3237200.0",
+    "gn:asciiname":"Saint Aubin",
+    "gn:cc2":"GB",
+    "gn:country_code":"JE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042096,
+    "gn:latitude":49.1875,
+    "gn:longitude":-2.17056,
+    "gn:modification_date":"2018-07-15",
+    "gn:name":"Saint Aubin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint Aubyn",
+        "Saint Aubin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042096,
+        "wk:page":"Saint_Aubin%2C_Jersey"
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"6a04cdbe2a0edb5079a4d2e4a345b6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1327039823,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1327039823,
+    "wof:lastmodified":1537649724,
+    "wof:name":"Saint Aubin",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.17056,
+    49.1875,
+    -2.17056,
+    49.1875
+],
+  "geometry": {"coordinates":[-2.17056,49.1875],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1343272269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21653,49.23892,-2.21653,49.23892",
+    "geom:latitude":49.23892,
+    "geom:longitude":-2.21653,
+    "gn:asciiname":"Trodez",
+    "gn:country_code":"JE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11071838,
+    "gn:latitude":49.23892,
+    "gn:longitude":-2.21653,
+    "gn:modification_date":"2016-02-18",
+    "gn:name":"Trodez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11071838
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"8aa2a53c640d5907e97ba1131cf1efde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1343272269,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1343272269,
+    "wof:lastmodified":1537017050,
+    "wof:name":"Trodez",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21653,
+    49.23892,
+    -2.21653,
+    49.23892
+],
+  "geometry": {"coordinates":[-2.21653,49.23892],"type":"Point"}
+}

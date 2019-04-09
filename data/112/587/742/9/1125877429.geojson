@@ -1,0 +1,80 @@
+{
+  "id": 1125877429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.072896,49.228388,-2.072896,49.228388",
+    "geom:latitude":49.228388,
+    "geom:longitude":-2.072896,
+    "gn:gn_country":null,
+    "iso:country":"JE",
+    "lbl:latitude":49.228388,
+    "lbl:longitude":-2.072896,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"JE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St.Martin's Arsenal",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Channel Islands",
+    "qs_pg:photos":200,
+    "qs_pg:photos_1k":41,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":200,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":368031,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":23700879,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Channel Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23700879,
+        "qs_pg:id":368031
+    },
+    "wof:country":"JE",
+    "wof:created":1497294613,
+    "wof:geomhash":"32281bfd0e7810a2a6407e2fce9732bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1125877429,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1125877429,
+    "wof:lastmodified":1509397821,
+    "wof:name":"St.Martin's Arsenal",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.072896,
+    49.228388,
+    -2.072896,
+    49.228388
+],
+  "geometry": {"coordinates":[-2.072896,49.228388],"type":"Point"}
+}

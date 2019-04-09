@@ -1,0 +1,70 @@
+{
+  "id": 1293010635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21705,49.24643,-2.21705,49.24643",
+    "geom:latitude":49.24643,
+    "geom:longitude":-2.21705,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vinchelez de Bas Manor",
+    "gn:cc2":"GB",
+    "gn:country_code":"JE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042078,
+    "gn:latitude":49.24643,
+    "gn:longitude":-2.21705,
+    "gn:modification_date":"2016-02-29",
+    "gn:name":"Vinchelez de Bas Manor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le Manoir de Vinchelez de Bas",
+        "Vinchelez de Bas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042078
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"7aaab7db4ca714c66da4a2162cf6ab2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1293010635,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1293010635,
+    "wof:lastmodified":1537649724,
+    "wof:name":"Vinchelez de Bas Manor",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21705,
+    49.24643,
+    -2.21705,
+    49.24643
+],
+  "geometry": {"coordinates":[-2.21705,49.24643],"type":"Point"}
+}

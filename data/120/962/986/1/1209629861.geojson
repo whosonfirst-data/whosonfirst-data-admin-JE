@@ -1,0 +1,65 @@
+{
+  "id": 1209629861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.23516,49.23534,-2.23516,49.23534",
+    "geom:latitude":49.23534,
+    "geom:longitude":-2.23516,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"L'Etacq",
+    "gn:country_code":"JE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042114,
+    "gn:latitude":49.23534,
+    "gn:longitude":-2.23516,
+    "gn:modification_date":"2015-07-16",
+    "gn:name":"L\u2019Etacq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u2019Etac",
+        "L\u2019Etacq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042114
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"9daae37c37aeed88a2254061e615ebec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632593,
+            "locality_id":1209629861
+        }
+    ],
+    "wof:id":1209629861,
+    "wof:lastmodified":1537649724,
+    "wof:name":"L'Etacq",
+    "wof:parent_id":85632593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.23516,
+    49.23534,
+    -2.23516,
+    49.23534
+],
+  "geometry": {"coordinates":[-2.23516,49.23534],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1126050479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.0264835,49.212046,-2.0264835,49.212046",
+    "geom:latitude":49.212046,
+    "geom:longitude":-2.026483,
+    "gn:gn_country":null,
+    "iso:country":"JE",
+    "lbl:latitude":49.212046,
+    "lbl:longitude":-2.026483,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"JE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Archirondel",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Channel Islands",
+    "qs_pg:photos":98,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":98,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":976670,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":23700870,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Channel Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23700870,
+        "qs_pg:id":976670
+    },
+    "wof:country":"JE",
+    "wof:created":1497302705,
+    "wof:geomhash":"42d9cf6b1a11440954e6507868b20c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1126050479,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1126050479,
+    "wof:lastmodified":1509409191,
+    "wof:name":"Archirondel",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.0264835,
+    49.212046,
+    -2.0264835,
+    49.212046
+],
+  "geometry": {"coordinates":[-2.0264835,49.212046],"type":"Point"}
+}

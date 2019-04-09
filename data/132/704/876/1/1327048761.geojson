@@ -1,0 +1,60 @@
+{
+  "id": 1327048761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.234,49.22976,-2.234,49.22976",
+    "geom:latitude":49.22976,
+    "geom:longitude":-2.234,
+    "gn:asciiname":"Les Labeurs",
+    "gn:country_code":"JE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10377077,
+    "gn:latitude":49.22976,
+    "gn:longitude":-2.234,
+    "gn:modification_date":"2015-07-16",
+    "gn:name":"Les Labeurs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10377077
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"52e4d12ae66bfd00b92d33d2f1e1118e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327048761,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327048761,
+    "wof:lastmodified":1536736833,
+    "wof:name":"Les Labeurs",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.234,
+    49.22976,
+    -2.234,
+    49.22976
+],
+  "geometry": {"coordinates":[-2.234,49.22976],"type":"Point"}
+}

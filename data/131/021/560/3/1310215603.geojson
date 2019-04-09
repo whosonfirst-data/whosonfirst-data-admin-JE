@@ -1,0 +1,64 @@
+{
+  "id": 1310215603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.20426,49.23282,-2.20426,49.23282",
+    "geom:latitude":49.23282,
+    "geom:longitude":-2.20426,
+    "gn:asciiname":"St Ouen's Village",
+    "gn:country_code":"JE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10377079,
+    "gn:latitude":49.23282,
+    "gn:longitude":-2.20426,
+    "gn:modification_date":"2015-07-16",
+    "gn:name":"St Ouen's Village",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10377079
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"0fb8eaef60ca886068b9e1a3c1a054a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1310215603,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1310215603,
+    "wof:lastmodified":1536836524,
+    "wof:name":"St Ouen's Village",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.20426,
+    49.23282,
+    -2.20426,
+    49.23282
+],
+  "geometry": {"coordinates":[-2.20426,49.23282],"type":"Point"}
+}

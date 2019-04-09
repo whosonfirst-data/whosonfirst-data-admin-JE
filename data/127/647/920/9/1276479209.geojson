@@ -1,0 +1,65 @@
+{
+  "id": 1276479209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.02869,49.2278,-2.02869,49.2278",
+    "geom:latitude":49.2278,
+    "geom:longitude":-2.02869,
+    "gn:admin1_code":"3237716.0",
+    "gn:asciiname":"Fliquet",
+    "gn:country_code":"JE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181789,
+    "gn:latitude":49.2278,
+    "gn:longitude":-2.02869,
+    "gn:modification_date":"2014-06-09",
+    "gn:name":"Fliquet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181789
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"f0ba7f02ca7df51f16087afbbdb21f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1276479209,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1276479209,
+    "wof:lastmodified":1537077409,
+    "wof:name":"Fliquet",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.02869,
+    49.2278,
+    -2.02869,
+    49.2278
+],
+  "geometry": {"coordinates":[-2.02869,49.2278],"type":"Point"}
+}

@@ -1,0 +1,351 @@
+{
+  "id": 1125849687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.04611,49.23639,-2.04611,49.23639",
+    "geom:latitude":49.23639,
+    "geom:longitude":-2.04611,
+    "gn:gn_country":"JE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"JE",
+    "lbl:latitude":49.23639,
+    "lbl:longitude":-2.04611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:arg_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:ast_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:bam_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:baq_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:bar_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:bre_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:bug_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:cat_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:chi_x_preferred":[
+        "\u52d2\u7f57\u6cfd"
+    ],
+    "name:cos_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:cze_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:dan_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:dut_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:eng_x_preferred":[
+        "Rozel"
+    ],
+    "name:epo_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:est_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:fao_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:fin_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:frc_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:fre_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:frp_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:fur_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:ger_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:gla_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:gle_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:glg_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:gsw_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:hrv_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:hun_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:ice_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:ido_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:ile_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:ina_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:ind_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:ita_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:jam_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:kab_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:kal_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435-\u0420\u043e\u0437\u0435\u043b\u044c"
+    ],
+    "name:kon_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:lat_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:lav_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:lij_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:lim_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:lit_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:ltz_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:may_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:min_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:mlg_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:nan_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:nap_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:nds_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:nno_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:nob_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:nrm_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:oci_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:pap_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:pcd_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:per_x_preferred":[
+        "\u0644 \u0631\u0648\u0632\u0644"
+    ],
+    "name:pms_x_preferred":[
+        "Rozel"
+    ],
+    "name:pol_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:por_x_preferred":[
+        "Rozel"
+    ],
+    "name:prg_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:rgn_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:roh_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:rum_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:scn_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:sco_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:slo_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:spa_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:srd_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:swa_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:swe_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:tur_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u0420\u043e\u0437\u0435\u043b\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Rozel Seigneurie"
+    ],
+    "name:uzb_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:vec_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:vie_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:vls_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:vmf_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:vol_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:war_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:wel_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:wln_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:wol_x_preferred":[
+        "Le Rozel"
+    ],
+    "name:zul_x_preferred":[
+        "Le Rozel"
+    ],
+    "qs_pg:aaroncc":"JE",
+    "qs_pg:gn_country":"JE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3042098,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rozel",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Channel Islands",
+    "qs_pg:photos":153,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":153,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1174723,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":538532,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Channel Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042098,
+        "gp:id":538532,
+        "qs_pg:id":1174723,
+        "wd:id":"Q1063282"
+    },
+    "wof:country":"JE",
+    "wof:created":1497293335,
+    "wof:geomhash":"f098c266bb6066db22ed150ad29ff5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1125849687,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1125849687,
+    "wof:lastmodified":1514466904,
+    "wof:name":"Rozel",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.04611,
+    49.23639,
+    -2.04611,
+    49.23639
+],
+  "geometry": {"coordinates":[-2.04611,49.23639],"type":"Point"}
+}

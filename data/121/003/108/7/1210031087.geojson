@@ -1,0 +1,69 @@
+{
+  "id": 1210031087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21563,49.22766,-2.21563,49.22766",
+    "geom:latitude":49.22766,
+    "geom:longitude":-2.21563,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"La Ville au Bas",
+    "gn:cc2":"GB",
+    "gn:country_code":"JE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3237290,
+    "gn:latitude":49.22766,
+    "gn:longitude":-2.21563,
+    "gn:modification_date":"2015-07-16",
+    "gn:name":"La Ville au Bas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ville au Bas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3237290
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"472dc2fa624cc5d8e5e24cfb09c3a198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1210031087,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1210031087,
+    "wof:lastmodified":1537649725,
+    "wof:name":"La Ville au Bas",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21563,
+    49.22766,
+    -2.21563,
+    49.22766
+],
+  "geometry": {"coordinates":[-2.21563,49.22766],"type":"Point"}
+}

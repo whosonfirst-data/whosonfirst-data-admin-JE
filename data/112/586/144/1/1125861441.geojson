@@ -1,0 +1,81 @@
+{
+  "id": 1125861441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.173201,49.171009,-2.173201,49.171009",
+    "geom:latitude":49.171009,
+    "geom:longitude":-2.173201,
+    "gn:gn_country":null,
+    "iso:country":"JE",
+    "lbl:latitude":49.171009,
+    "lbl:longitude":-2.173201,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"JE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Portelet",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Channel Islands",
+    "qs_pg:photos":170,
+    "qs_pg:photos_1k":34,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":170,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1181785,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":23700890,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Channel Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23700890,
+        "qs_pg:id":1181785
+    },
+    "wof:country":"JE",
+    "wof:created":1497293845,
+    "wof:geomhash":"4c4a2a15491fb7a5f27ca72d41147fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "empire_id":136253055,
+            "locality_id":1125861441,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125861441,
+    "wof:lastmodified":1509396656,
+    "wof:name":"Portelet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.173201,
+    49.171009,
+    -2.173201,
+    49.171009
+],
+  "geometry": {"coordinates":[-2.173201,49.171009],"type":"Point"}
+}

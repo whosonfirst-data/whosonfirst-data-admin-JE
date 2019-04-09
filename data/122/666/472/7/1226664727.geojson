@@ -1,0 +1,64 @@
+{
+  "id": 1226664727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.10663,49.22547,-2.10663,49.22547",
+    "geom:latitude":49.22547,
+    "geom:longitude":-2.10663,
+    "gn:asciiname":"Vill es Normans",
+    "gn:country_code":"JE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11071826,
+    "gn:latitude":49.22547,
+    "gn:longitude":-2.10663,
+    "gn:modification_date":"2016-02-18",
+    "gn:name":"Vill es Normans",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11071826
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"a79ac3eaa4ca760c6a448aaa1679739c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1226664727,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1226664727,
+    "wof:lastmodified":1536831162,
+    "wof:name":"Vill es Normans",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.10663,
+    49.22547,
+    -2.10663,
+    49.22547
+],
+  "geometry": {"coordinates":[-2.10663,49.22547],"type":"Point"}
+}

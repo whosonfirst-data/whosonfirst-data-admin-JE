@@ -1,0 +1,64 @@
+{
+  "id": 1276243613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.08139,49.19828,-2.08139,49.19828",
+    "geom:latitude":49.19828,
+    "geom:longitude":-2.08139,
+    "gn:asciiname":"Five Oaks",
+    "gn:country_code":"JE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8469011,
+    "gn:latitude":49.19828,
+    "gn:longitude":-2.08139,
+    "gn:modification_date":"2013-02-28",
+    "gn:name":"Five Oaks",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8469011
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"addd7f10b552bbcd86cc2934e86916f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1276243613,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1276243613,
+    "wof:lastmodified":1536898804,
+    "wof:name":"Five Oaks",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.08139,
+    49.19828,
+    -2.08139,
+    49.19828
+],
+  "geometry": {"coordinates":[-2.08139,49.19828],"type":"Point"}
+}

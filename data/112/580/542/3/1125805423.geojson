@@ -1,0 +1,102 @@
+{
+  "id": 1125805423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.02826,49.19937,-2.02826,49.19937",
+    "geom:latitude":49.19937,
+    "geom:longitude":-2.02826,
+    "gn:gn_country":"JE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"JE",
+    "lbl:latitude":49.19937,
+    "lbl:longitude":-2.02826,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Gorey"
+    ],
+    "name:eng_x_preferred":[
+        "Gorey"
+    ],
+    "name:fre_x_preferred":[
+        "Gouray"
+    ],
+    "name:ger_x_preferred":[
+        "Gorey"
+    ],
+    "name:unk_x_variant":[
+        "Gouray"
+    ],
+    "qs_pg:aaroncc":"JE",
+    "qs_pg:gn_country":"JE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3042151,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gorey",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Channel Islands",
+    "qs_pg:photos":1655,
+    "qs_pg:photos_1k":335,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1655,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082857,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":538509,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Channel Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042151,
+        "gp:id":538509,
+        "qs_pg:id":1082857,
+        "wd:id":"Q639326"
+    },
+    "wof:country":"JE",
+    "wof:created":1497291443,
+    "wof:geomhash":"6f5f0c6e32af48063c0ed30184dd3668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1125805423,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1125805423,
+    "wof:lastmodified":1514466903,
+    "wof:name":"Gorey",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.02826,
+    49.19937,
+    -2.02826,
+    49.19937
+],
+  "geometry": {"coordinates":[-2.02826,49.19937],"type":"Point"}
+}

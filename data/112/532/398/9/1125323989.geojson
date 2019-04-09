@@ -1,0 +1,81 @@
+{
+  "id": 1125323989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.11122,49.184634,-2.11122,49.184634",
+    "geom:latitude":49.184634,
+    "geom:longitude":-2.11122,
+    "gn:gn_country":null,
+    "iso:country":"JE",
+    "lbl:latitude":49.184634,
+    "lbl:longitude":-2.11122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"JE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St. Helier",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Channel Islands",
+    "qs_pg:photos":209,
+    "qs_pg:photos_1k":42,
+    "qs_pg:photos_9k":28,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":6402,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":221677,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":23701063,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Channel Islands",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23701063,
+        "qs_pg:id":221677
+    },
+    "wof:country":"JE",
+    "wof:created":1497044680,
+    "wof:geomhash":"41486586e594c25cbde61930b701400c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "empire_id":136253055,
+            "localadmin_id":1125323989,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125323989,
+    "wof:lastmodified":1509388187,
+    "wof:name":"St. Helier",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.11122,
+    49.184634,
+    -2.11122,
+    49.184634
+],
+  "geometry": {"coordinates":[-2.11122,49.184634],"type":"Point"}
+}

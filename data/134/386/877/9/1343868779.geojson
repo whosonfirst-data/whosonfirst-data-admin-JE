@@ -1,0 +1,65 @@
+{
+  "id": 1343868779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.23722,49.18159,-2.23722,49.18159",
+    "geom:latitude":49.18159,
+    "geom:longitude":-2.23722,
+    "gn:asciiname":"La Corbiere",
+    "gn:country_code":"JE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10377768,
+    "gn:latitude":49.18159,
+    "gn:longitude":-2.23722,
+    "gn:modification_date":"2015-07-19",
+    "gn:name":"La Corbiere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10377768
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"a3e1c1e77c2414d89c9d02a3a8c19165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "empire_id":136253055,
+            "locality_id":1343868779,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343868779,
+    "wof:lastmodified":1536654500,
+    "wof:name":"La Corbiere",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.23722,
+    49.18159,
+    -2.23722,
+    49.18159
+],
+  "geometry": {"coordinates":[-2.23722,49.18159],"type":"Point"}
+}

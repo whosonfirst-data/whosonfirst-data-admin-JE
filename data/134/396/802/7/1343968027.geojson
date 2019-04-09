@@ -1,0 +1,74 @@
+{
+  "id": 1343968027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21387,49.22135,-2.21387,49.22135",
+    "geom:latitude":49.22135,
+    "geom:longitude":-2.21387,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Saint Ouen's Bay",
+    "gn:cc2":"GB",
+    "gn:country_code":"JE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042088,
+    "gn:latitude":49.22135,
+    "gn:longitude":-2.21387,
+    "gn:modification_date":"2015-07-16",
+    "gn:name":"Saint Ouen\u2019s Bay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saint Ouen\u2019s Bay"
+    ],
+    "name:und_x_variant":[
+        "Saint Ouen Bay",
+        "La Baie de St. Ou\u00ebn",
+        "St. Ou\u00ebn\u2019s Bay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042088
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"c269b64b21226ca00665291d178d2f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1343968027,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1343968027,
+    "wof:lastmodified":1537649724,
+    "wof:name":"Saint Ouen's Bay",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21387,
+    49.22135,
+    -2.21387,
+    49.22135
+],
+  "geometry": {"coordinates":[-2.21387,49.22135],"type":"Point"}
+}

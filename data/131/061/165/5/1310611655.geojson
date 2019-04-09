@@ -1,0 +1,65 @@
+{
+  "id": 1310611655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21658,49.18218,-2.21658,49.18218",
+    "geom:latitude":49.18218,
+    "geom:longitude":-2.21658,
+    "gn:asciiname":"Le Mont es Croix",
+    "gn:country_code":"JE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10377769,
+    "gn:latitude":49.18218,
+    "gn:longitude":-2.21658,
+    "gn:modification_date":"2015-07-19",
+    "gn:name":"Le Mont es Croix",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10377769
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"1835f8adacaaefc3e9ba52514956de88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "empire_id":136253055,
+            "locality_id":1310611655,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310611655,
+    "wof:lastmodified":1536764059,
+    "wof:name":"Le Mont es Croix",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21658,
+    49.18218,
+    -2.21658,
+    49.18218
+],
+  "geometry": {"coordinates":[-2.21658,49.18218],"type":"Point"}
+}

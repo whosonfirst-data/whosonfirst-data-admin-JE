@@ -1,0 +1,89 @@
+{
+  "id": 1125805395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.20482,49.19146,-2.20482,49.19146",
+    "geom:latitude":49.19146,
+    "geom:longitude":-2.20482,
+    "gn:gn_country":"JE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"JE",
+    "lbl:latitude":49.19146,
+    "lbl:longitude":-2.20482,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "St Brelade"
+    ],
+    "qs_pg:aaroncc":"JE",
+    "qs_pg:gn_country":"JE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6950955,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St. Brelade",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Channel Islands",
+    "qs_pg:photos":2329,
+    "qs_pg:photos_1k":472,
+    "qs_pg:photos_9k":10,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2329,
+    "qs_pg:photos_sr":17,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082856,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":538507,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Channel Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6950955,
+        "gp:id":538507,
+        "qs_pg:id":1082856
+    },
+    "wof:country":"JE",
+    "wof:created":1497291442,
+    "wof:geomhash":"871b2cba149fb5111d0c49650eb83171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1125805395,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1125805395,
+    "wof:lastmodified":1509393267,
+    "wof:name":"St. Brelade",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.20482,
+    49.19146,
+    -2.20482,
+    49.19146
+],
+  "geometry": {"coordinates":[-2.20482,49.19146],"type":"Point"}
+}

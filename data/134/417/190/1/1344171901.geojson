@@ -1,0 +1,65 @@
+{
+  "id": 1344171901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.16889,49.24944,-2.16889,49.24944",
+    "geom:latitude":49.24944,
+    "geom:longitude":-2.16889,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"La Falaise",
+    "gn:country_code":"JE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3237474,
+    "gn:latitude":49.24944,
+    "gn:longitude":-2.16889,
+    "gn:modification_date":"2007-06-15",
+    "gn:name":"La Falaise",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3237474
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"5a855cc1a31dd732606527b99453d93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1344171901,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1344171901,
+    "wof:lastmodified":1536715029,
+    "wof:name":"La Falaise",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.16889,
+    49.24944,
+    -2.16889,
+    49.24944
+],
+  "geometry": {"coordinates":[-2.16889,49.24944],"type":"Point"}
+}

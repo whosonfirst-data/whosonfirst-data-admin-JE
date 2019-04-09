@@ -1,0 +1,276 @@
+{
+  "id": 1125783915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00056,
+    "geom:area_square_m":4527558.222681,
+    "geom:bbox":"-2.11944733429,49.1679236119,-2.08637273882,49.1961742568",
+    "geom:latitude":49.183188,
+    "geom:longitude":-2.10424,
+    "gn:gn_country":"JE",
+    "gn:gn_fcode":"PPLC",
+    "gn:gn_pop":28000,
+    "gn:population":28000,
+    "iso:country":"JE",
+    "lbl:latitude":49.183428,
+    "lbl:longitude":-2.108296,
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u064a\u0646\u062a \u0647\u064a\u0644\u064a\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Sent Helier"
+    ],
+    "name:baq_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0435\u043d\u0442-\u0425\u0435\u043b\u044c\u0435\u0440"
+    ],
+    "name:bre_x_preferred":[
+        "Saint H\u00e9lyi"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u0439\u043d\u0442 \u0425\u0435\u043b\u0438\u044a\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:chi_x_preferred":[
+        "\u5723\u8d6b\u5229\u5c14"
+    ],
+    "name:cor_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:cze_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:dan_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:deu_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:dut_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:eng_x_variant":[
+        "St Helier",
+        "St. Helier"
+    ],
+    "name:epo_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:fin_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-H\u00e9lier"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-H\u00e9lier"
+    ],
+    "name:frr_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d4\u10dc\u10e2-\u10f0\u10d4\u10da\u10d8\u10d4\u10e0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:gla_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:glg_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b5\u03bd\u03c4 \u03a7\u03ad\u03bb\u03b9\u03b5\u03c1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8 \u05d4\u05dc\u05d9\u05d9\u05e8"
+    ],
+    "name:hrv_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:hun_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:ice_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:ido_x_preferred":[
+        "St Helier"
+    ],
+    "name:ile_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:ind_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:ita_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30d8\u30ea\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\ud5ec\ub9ac\uc5b4"
+    ],
+    "name:lat_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:lav_x_preferred":[
+        "Senthelj\u0113ra"
+    ],
+    "name:lit_x_preferred":[
+        "Sent Helieras"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0435\u043d\u0442 \u0425\u0435\u043b\u0438\u0435\u0440"
+    ],
+    "name:mao_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:nno_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:nob_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:nov_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:nrm_x_preferred":[
+        "Saint H\u00e9lyi"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0425\u0435\u043b\u044c\u0435\u0440"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646 \u0647\u0644\u06cc\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:por_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0425\u0435\u043b\u044c\u0435\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:slo_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:spa_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043d\u0442 \u0425\u0435\u043b\u0438\u0458\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0b8e\u0bb2\u0bbf\u0baf\u0bc6\u0bb0\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e40\u0e2e\u0e25\u0e34\u0e40\u0e22\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:udm_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0425\u0435\u043b\u0438\u0435\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0413\u0435\u043b\u0456\u0454\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u06c1\u06cc\u0644\u06cc\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:war_x_preferred":[
+        "Saint Helier"
+    ],
+    "name:wel_x_preferred":[
+        "Saint Helier"
+    ],
+    "qs_pg:aaroncc":"JE",
+    "qs_pg:gn_country":"JE",
+    "qs_pg:gn_fcode":"PPLC",
+    "qs_pg:gn_id":3042091,
+    "qs_pg:gn_pop":28000,
+    "qs_pg:name":"Saint Helier",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":580763,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:capital_of":85632593,
+    "wof:concordances":{
+        "gn:id":3042091,
+        "qs_pg:id":580763,
+        "wd:id":"Q147738"
+    },
+    "wof:country":"JE",
+    "wof:created":1497290598,
+    "wof:geomhash":"1e44aa8d40bceff75e3c25c2a2051cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "empire_id":136253055,
+            "locality_id":1125783915,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125783915,
+    "wof:lastmodified":1552519486,
+    "wof:name":"Saint Helier",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":28000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.119447334286552,
+    49.16792361188015,
+    -2.086372738824118,
+    49.19617425679181
+],
+  "geometry": {"coordinates":[[[-2.11757125429183,49.18722845178655],[-2.11882197428831,49.18809131429287],[-2.11771022318033,49.18845462095185],[-2.11625104985111,49.18840920776537],[-2.11451393874489,49.18886333775442],[-2.11319373430416,49.18922663874446],[-2.1136801254139,49.19018029115073],[-2.11374960985815,49.1908160492092],[-2.11374960985815,49.19149720949152],[-2.11312424985991,49.19195131113604],[-2.11242940541742,49.19208754081659],[-2.11152610764219,49.1923145894505],[-2.11103971653245,49.19313195590428],[-2.10853827653949,49.19272327436553],[-2.10694013432177,49.19285950192025],[-2.10527250765979,49.19308654701116],[-2.10339642766508,49.19308654701116],[-2.10318797433233,49.1950390917766],[-2.10339642766508,49.1956293808357],[-2.1021457076686,49.19617425679181],[-2.10089498767212,49.19522071992967],[-2.10040859656238,49.19522071992967],[-2.09985272100839,49.1955839742351],[-2.09985272100839,49.19599263214002],[-2.09596159213045,49.19549316090883],[-2.09471087213397,49.19399471695411],[-2.09339066769325,49.1939039007101],[-2.09255685436226,49.19413094100751],[-2.09165355658703,49.19308654701116],[-2.09095871214454,49.19326818233358],[-2.09040283659055,49.19245081813066],[-2.0901943832578,49.19117933586023],[-2.09026386770205,49.18854544719976],[-2.08637273882412,49.18473060122862],[-2.08713706771085,49.18132424021192],[-2.08998592992506,49.1798253670821],[-2.09144510325428,49.17923488944582],[-2.09325169880475,49.17887151509117],[-2.09339066769325,49.17873524902036],[-2.09234840102952,49.17764510694773],[-2.09373808991449,49.17619154683371],[-2.0960310765747,49.17673663687879],[-2.09762921879243,49.17669121293763],[-2.0994358143429,49.17723629748016],[-2.10020014322963,49.17719087399755],[-2.09950529878714,49.17641866841534],[-2.09922736101015,49.17596442420994],[-2.0994358143429,49.17555560086091],[-2.10006117434113,49.17555560086091],[-2.10103395656062,49.17578272536058],[-2.10263209877834,49.17641866841534],[-2.1048556009943,49.17655494086408],[-2.10603683654653,49.17610069790927],[-2.10687064987752,49.17514677413531],[-2.10728755654301,49.17455624068162],[-2.10645374321202,49.17392027369888],[-2.10631477432353,49.1734205796234],[-2.10652322765627,49.17296630790496],[-2.10694013432177,49.17269374287292],[-2.10728755654301,49.17214860830666],[-2.10721807209876,49.17137632406195],[-2.10700961876602,49.17024059005161],[-2.10749600987576,49.16946827604217],[-2.10819085431825,49.16892310595835],[-2.10951105875897,49.16837792987152],[-2.11110920097669,49.16792361188015],[-2.11263785875017,49.16810533957695],[-2.11444445430064,49.16883224369409],[-2.11576465874136,49.17005887019208],[-2.11673744096085,49.17160346773748],[-2.11736280095909,49.17283002557653],[-2.11930836539805,49.17946199706272],[-2.11944733428655,49.18068836018582],[-2.11833558317857,49.18336808495908],[-2.11722383207059,49.18468518462407],[-2.1165289876281,49.18559350879529],[-2.11659847207235,49.1862747409816],[-2.11757125429183,49.18722845178655]]],"type":"Polygon"}
+}

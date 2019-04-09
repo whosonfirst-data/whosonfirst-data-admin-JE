@@ -1,0 +1,64 @@
+{
+  "id": 1276567463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.1044,49.2462,-2.1044,49.2462",
+    "geom:latitude":49.2462,
+    "geom:longitude":-2.1044,
+    "gn:asciiname":"Les Platons",
+    "gn:country_code":"JE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6947752,
+    "gn:latitude":49.2462,
+    "gn:longitude":-2.1044,
+    "gn:modification_date":"2009-08-26",
+    "gn:name":"Les Platons",
+    "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
+    "iso:country":"JE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6947752
+    },
+    "wof:country":"JE",
+    "wof:geomhash":"ebb5f45560e5c7054139b20079e34033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632593,
+            "locality_id":1276567463,
+            "region_id":85681257
+        }
+    ],
+    "wof:id":1276567463,
+    "wof:lastmodified":1536962346,
+    "wof:name":"Les Platons",
+    "wof:parent_id":85681257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-je",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.1044,
+    49.2462,
+    -2.1044,
+    49.2462
+],
+  "geometry": {"coordinates":[-2.1044,49.2462],"type":"Point"}
+}
