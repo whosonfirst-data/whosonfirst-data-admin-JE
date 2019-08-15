@@ -9,8 +9,10 @@
     "geom:bbox":"-2.24201412715,49.1713320987,-2.00829016776,49.2670352232",
     "geom:latitude":49.221064,
     "geom:longitude":-2.127431,
-    "gn:id":"",
     "iso:country":"JE",
+    "label:eng_x_preferred_shortcode":[
+        "JE"
+    ],
     "lbl:latitude":49.220808,
     "lbl:longitude":-2.090146,
     "mps:latitude":49.220808,
@@ -367,20 +369,18 @@
         }
     ],
     "wof:id":85681257,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1564149712,
+    "wof:lastmodified":1565909535,
     "wof:name":"Jersey",
     "wof:parent_id":85632593,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-je",
+    "wof:shortcode":"JE",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

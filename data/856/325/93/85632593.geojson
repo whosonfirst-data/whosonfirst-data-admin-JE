@@ -14,6 +14,9 @@
     "itu:country_code":[
         "44"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JE"
+    ],
     "lbl:latitude":49.224297,
     "lbl:longitude":-2.130418,
     "mps:latitude":49.224297,
@@ -678,7 +681,7 @@
         "eng",
         "fre"
     ],
-    "wof:lastmodified":1563251307,
+    "wof:lastmodified":1565724440,
     "wof:name":"Jersey",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
