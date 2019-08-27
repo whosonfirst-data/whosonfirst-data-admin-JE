@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":49.220808,
     "lbl:longitude":-2.090146,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.220808,
     "mps:longitude":-2.090146,
     "mz:hierarchy_label":1,
@@ -349,7 +350,7 @@
     "qs:type":"Admin-1 aggregation",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632593
@@ -357,7 +358,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23424857,
-        "qs:id":1314370
+        "qs_pg:id":1314370
     },
     "wof:country":"JE",
     "wof:geomhash":"bce31988a986a9a4bfcaadfd69197f57",
@@ -375,7 +376,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565909535,
+    "wof:lastmodified":1566724590,
     "wof:name":"Jersey",
     "wof:parent_id":85632593,
     "wof:placetype":"region",

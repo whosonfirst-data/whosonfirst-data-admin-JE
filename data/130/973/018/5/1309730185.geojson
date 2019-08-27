@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Jersey",
     "iso:country":"JE",
+    "lbl:bbox":"-2.15861,49.22556,-2.11861,49.26556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint Jean"
     ],
@@ -54,7 +58,6 @@
         "Saint John"
     ],
     "name:und_x_variant":[
-        "Saint Jean",
         "Saint John\u2019s",
         "St. John\u2019s Church"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1309730185,
-    "wof:lastmodified":1564149717,
+    "wof:lastmodified":1566724592,
     "wof:name":"Saint John",
     "wof:parent_id":85681257,
     "wof:placetype":"locality",

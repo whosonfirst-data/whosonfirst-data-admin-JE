@@ -12,6 +12,7 @@
     "iso:country":"JE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:bel_x_preferred":[
         "\u0414\u0436\u044d\u0440\u0441\u0456"
     ],
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":102557203,
-    "wof:lastmodified":1563251303,
+    "wof:lastmodified":1566724590,
     "wof:name":"Jersey Airport",
     "wof:parent_id":85681257,
     "wof:placetype":"campus",
