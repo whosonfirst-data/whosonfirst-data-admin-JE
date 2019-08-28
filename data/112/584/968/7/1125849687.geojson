@@ -9,14 +9,18 @@
     "geom:bbox":"-2.04611,49.23639,-2.04611,49.23639",
     "geom:latitude":49.23639,
     "geom:longitude":-2.04611,
-    "gn:gn_country":"JE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"JE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"JE",
+    "lbl:bbox":"-2.06611,49.21639,-2.02611,49.25639",
     "lbl:latitude":49.23639,
     "lbl:longitude":-2.04611,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Le Rozel"
@@ -252,7 +256,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435-\u0420\u043e\u0437\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rozel Seigneurie"
     ],
     "name:uzb_x_preferred":[
@@ -309,7 +313,7 @@
     "qs_pg:woe_adm0":23424975,
     "qs_pg:woe_id":538532,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"Channel Islands",
@@ -338,7 +342,7 @@
         }
     ],
     "wof:id":1125849687,
-    "wof:lastmodified":1563251327,
+    "wof:lastmodified":1566724594,
     "wof:name":"Rozel",
     "wof:parent_id":85681257,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Jersey",
     "iso:country":"JE",
+    "lbl:bbox":"-2.18222,49.17472,-2.14222,49.21472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1310223083,
-    "wof:lastmodified":1536825946,
+    "wof:lastmodified":1566724591,
     "wof:name":"Lower Blanc Pignon",
     "wof:parent_id":85681257,
     "wof:placetype":"locality",

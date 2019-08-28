@@ -9,16 +9,18 @@
     "geom:bbox":"-2.11944733429,49.1679236119,-2.08637273882,49.1961742568",
     "geom:latitude":49.183188,
     "geom:longitude":-2.10424,
-    "gn:gn_country":"JE",
-    "gn:gn_fcode":"PPLC",
-    "gn:gn_pop":28000,
+    "gn:country":"JE",
+    "gn:fcode":"PPLC",
     "gn:population":28000,
     "iso:country":"JE",
     "lbl:latitude":49.183428,
     "lbl:longitude":-2.108296,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Saint Helier"
@@ -240,7 +242,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -267,7 +269,7 @@
         }
     ],
     "wof:id":1125783915,
-    "wof:lastmodified":1563251326,
+    "wof:lastmodified":1566724594,
     "wof:name":"Saint Helier",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
