@@ -258,6 +258,9 @@
     },
     "wof:country":"JE",
     "wof:created":1497290598,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
     "wof:geomhash":"91b8e5c35f572a8755b831c7691612b2",
     "wof:hierarchy":[
         {
@@ -269,7 +272,7 @@
         }
     ],
     "wof:id":1125783915,
-    "wof:lastmodified":1566724594,
+    "wof:lastmodified":1582321271,
     "wof:name":"Saint Helier",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -666,6 +666,10 @@
     },
     "wof:country":"JE",
     "wof:country_alpha3":"JEY",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"083df51571959fb54c8d6984ad1bfbe9",
     "wof:hierarchy":[
         {
@@ -683,7 +687,7 @@
         "eng",
         "fre"
     ],
-    "wof:lastmodified":1566724590,
+    "wof:lastmodified":1582321271,
     "wof:name":"Jersey",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
