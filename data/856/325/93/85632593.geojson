@@ -650,9 +650,7 @@
         1125783915
     ],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            832
-        ],
+        "digitalenvoy:country_code":832,
         "fifa:id":"GBJ",
         "fips:code":"JE",
         "gaul:id":"128",
@@ -690,7 +688,7 @@
         "eng",
         "fre"
     ],
-    "wof:lastmodified":1583529161,
+    "wof:lastmodified":1583797368,
     "wof:name":"Jersey",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
