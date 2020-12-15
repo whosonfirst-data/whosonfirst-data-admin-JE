@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015471,
-    "geom:area_square_m":124977905.073241,
+    "geom:area_square_m":124978091.526209,
     "geom:bbox":"-2.252889,48.895416,-1.784611,49.297943",
     "geom:latitude":49.208376,
     "geom:longitude":-2.13072,
@@ -665,6 +665,9 @@
         "uncrt:id":"GBJ",
         "wd:id":"Q785"
     },
+    "wof:coterminous":[
+        85681257
+    ],
     "wof:country":"JE",
     "wof:country_alpha3":"JEY",
     "wof:geom_alt":[
@@ -688,7 +691,7 @@
         "eng",
         "fre"
     ],
-    "wof:lastmodified":1583797368,
+    "wof:lastmodified":1608035201,
     "wof:name":"Jersey",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
