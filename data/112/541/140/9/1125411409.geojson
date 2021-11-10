@@ -20,6 +20,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09ae\u09be\u09b0\u09cd\u099f\u09bf\u09a8"
+    ],
     "qs_pg:aaroncc":"JE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"St. Martin",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1125411409,
-    "wof:lastmodified":1566724594,
+    "wof:lastmodified":1636496538,
     "wof:name":"St. Martin",
     "wof:parent_id":85681257,
     "wof:placetype":"localadmin",

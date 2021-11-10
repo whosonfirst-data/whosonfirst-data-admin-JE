@@ -287,6 +287,9 @@
         "Muqaddas uchlik"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Trinity"
+    ],
+    "name:vie_x_variant":[
         "Ba Ng\u00f4i"
     ],
     "name:wln_x_preferred":[
@@ -347,7 +350,7 @@
         }
     ],
     "wof:id":1125873561,
-    "wof:lastmodified":1566724593,
+    "wof:lastmodified":1636496538,
     "wof:name":"Trinity",
     "wof:parent_id":85681257,
     "wof:placetype":"locality",
