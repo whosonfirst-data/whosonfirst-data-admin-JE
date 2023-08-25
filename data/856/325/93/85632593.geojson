@@ -45,6 +45,9 @@
     "name:ang_x_preferred":[
         "C\u0113sar\u0113a"
     ],
+    "name:anp_x_preferred":[
+        "\u091c\u0930\u094d\u0938\u0940"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u064a\u0631\u0632\u064a"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:arg_x_preferred":[
         "J\u00e8rri"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u0631\u0632\u0649"
     ],
     "name:ast_x_preferred":[
         "Jersey"
@@ -117,8 +123,14 @@
     "name:chr_x_preferred":[
         "\u13e8\u13b5\u13cf"
     ],
+    "name:ckb_x_preferred":[
+        "\u062c\u06ce\u0631\u0632\u06cc"
+    ],
     "name:cor_x_preferred":[
         "Jersi"
+    ],
+    "name:cos_x_preferred":[
+        "Jersey"
     ],
     "name:crh_x_preferred":[
         "Cersi"
@@ -130,6 +142,9 @@
         "Jersey"
     ],
     "name:deu_x_preferred":[
+        "Jersey"
+    ],
+    "name:diq_x_preferred":[
         "Jersey"
     ],
     "name:div_x_preferred":[
@@ -200,6 +215,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ab0\u0acd\u0ab8\u0ac0"
+    ],
+    "name:hak_x_preferred":[
+        "Jersey"
     ],
     "name:hau_x_preferred":[
         "Jersey"
@@ -273,6 +291,9 @@
     "name:kin_x_preferred":[
         "Jersey"
     ],
+    "name:kir_x_preferred":[
+        "\u0416\u0435\u0440\u0441\u0438"
+    ],
     "name:kor_x_preferred":[
         "\uc800\uc9c0 \uc12c"
     ],
@@ -309,6 +330,9 @@
     ],
     "name:mar_x_preferred":[
         "\u091c\u0930\u094d\u0938\u0940"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0414\u0436\u044d\u0440\u0441\u0438"
     ],
     "name:mkd_x_preferred":[
         "\u040f\u0435\u0440\u0441\u0438"
@@ -396,8 +420,17 @@
         "\u0414\u0436\u0435\u0440\u0441\u0438 (\u043e\u0441\u0442\u0440\u043e\u0432)",
         "\u0414\u0436\u0435\u0440\u0441\u0438"
     ],
+    "name:sah_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u0441\u0438"
+    ],
+    "name:scn_x_preferred":[
+        "Jersey"
+    ],
     "name:sco_x_preferred":[
         "Jersey"
+    ],
+    "name:shn_x_preferred":[
+        "\u1075\u103b\u1083\u1087\u101e\u102e\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0da2\u0dbb\u0dca\u0dc3\u0dd2"
@@ -433,6 +466,9 @@
         "Jersey"
     ],
     "name:swe_x_preferred":[
+        "Jersey"
+    ],
+    "name:szl_x_preferred":[
         "Jersey"
     ],
     "name:tam_x_preferred":[
@@ -756,7 +792,7 @@
         "eng",
         "fre"
     ],
-    "wof:lastmodified":1617827433,
+    "wof:lastmodified":1690937453,
     "wof:name":"Jersey",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
