@@ -761,6 +761,7 @@
         "gn:id":3042142,
         "gp:id":23424857,
         "hasc:id":"JE",
+        "iso:code":"JE",
         "m49:code":"832",
         "marc:id":"uik",
         "mzb:id":"jersey",
@@ -770,6 +771,7 @@
         "uncrt:id":"GBJ",
         "wd:id":"Q785"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         85681257
     ],
@@ -796,7 +798,7 @@
         "eng",
         "fre"
     ],
-    "wof:lastmodified":1694639517,
+    "wof:lastmodified":1695881172,
     "wof:name":"Jersey",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
