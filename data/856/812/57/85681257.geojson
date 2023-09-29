@@ -361,8 +361,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23424857,
+        "iso:code_pseudo":"JE",
         "qs_pg:id":1314370
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:coterminous":[
         85632593
     ],
@@ -382,7 +384,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694493126,
+    "wof:lastmodified":1695884282,
     "wof:name":"Jersey",
     "wof:parent_id":85632593,
     "wof:placetype":"region",
