@@ -9,9 +9,21 @@
     "geom:bbox":"-2.21944,49.18417,-2.21944,49.18417",
     "geom:latitude":49.18417,
     "geom:longitude":-2.21944,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"La Moye",
     "gn:country":"JE",
+    "gn:country_code":"JE",
+    "gn:dem":54,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3237197,
+    "gn:latitude":49.18222,
+    "gn:longitude":-2.22222,
+    "gn:modification_date":"2007-06-15",
+    "gn:name":"La Moye",
     "gn:population":0,
+    "gn:timezone":"Europe/Jersey",
     "iso:country":"JE",
     "lbl:bbox":"-2.23944,49.16417,-2.19944,49.20417",
     "lbl:latitude":49.18417,
@@ -59,6 +71,11 @@
         "gp:id":23700893,
         "qs_pg:id":1260064
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3237197
+        ]
+    },
     "wof:country":"JE",
     "wof:created":1497290107,
     "wof:geomhash":"fe868642d6c6008a73ad6ce363be6458",
@@ -72,13 +89,15 @@
         }
     ],
     "wof:id":1125772247,
-    "wof:lastmodified":1566724595,
+    "wof:lastmodified":1706239953,
     "wof:name":"La Moye",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-je",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326748763
+    ],
     "wof:tags":[]
 },
   "bbox": [
